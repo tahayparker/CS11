@@ -10,7 +10,7 @@ Python was first released in 1991.
 - Readability  <br>
         Python code is easily readable by humans
 
-- Object oriented l  <br>anguage
+- Object oriented language  <br>
         We can create objects [like variables, functions, etc.] to organize our code and make it more efficient and reusable.
 
 - Less learning time  <br>

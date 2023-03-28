@@ -1,4 +1,5 @@
 # CS11
+![CS11](https://user-images.githubusercontent.com/98612931/228251060-e648706b-61df-4019-a2c7-d1ffa4c0ee94.png)
 
 ## Welcome to CS11!
 

@@ -23,7 +23,7 @@ You may remember these as "KILPO"
 - All keywords are in lowercase, except for `True`, `False`, and `None`, which start with a capital letter.  <br>
 
 List of keywords in Python:
-<div align="center" style="border-style:none">
+<div>
 	<table>
 		<tr>
 			<td>and</td>
@@ -31,6 +31,8 @@ List of keywords in Python:
 			<td>assert</td>
 			<td>async</td>
 			<td>await</td>
+		</tr>
+        <tr>
             <td>break</td>
             <td>class</td>
             <td>continue</td>
@@ -43,6 +45,8 @@ List of keywords in Python:
             <td>except</td>
             <td>finally</td>
             <td>for</td>
+        </tr>
+        <tr>
             <td>from</td>
             <td>global</td>
             <td>if</td>
@@ -55,6 +59,8 @@ List of keywords in Python:
             <td>nonlocal</td>
             <td>not</td>
             <td>or</td>
+        </tr>
+        <tr>
             <td>pass</td>
             <td>raise</td>
             <td>return</td>

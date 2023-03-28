@@ -4,7 +4,7 @@ Python is a high-level, general-purpose programming language created by Guido va
 Python was first released in 1991.
 
 ## Advantages of Python
-- Platform Independent  <br>
+- **Platform Independent**  <br>
         Python can run on any platform, including Windows, macOS, Linux, Android, and many more.
 
 - Readability  <br>

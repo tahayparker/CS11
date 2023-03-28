@@ -1,6 +1,6 @@
 ## What is Python?
 
-Python is a high-level, general-purpose programming language created by Guido van Rossum.
+Python is a high-level, general-purpose programming language created by Guido van Rossum.  <br>
 Python was first released in 1991.
 
 ## Advantages of Python

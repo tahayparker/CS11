@@ -23,8 +23,8 @@ You may remember these as "KILPO"
 - All keywords are in lowercase, except for `True`, `False`, and `None`, which start with a capital letter.  <br>
 
 List of keywords in Python:
-<div align="center">
-	<table style="border-style:none">
+<div align="center" style="border-style:none">
+	<table>
 		<tr>
 			<td>and</td>
 			<td>as</td>
@@ -32,5 +32,46 @@ List of keywords in Python:
 			<td>async</td>
 			<td>await</td>
 		</tr>
+        <tr>
+            <td>break</td>
+            <td>class</td>
+            <td>continue</td>
+            <td>def</td>
+            <td>del</td>
+        </tr>
+        <tr>
+            <td>elif</td>
+            <td>else</td>
+            <td>except</td>
+            <td>finally</td>
+            <td>for</td>
+        </tr>
+        <tr>
+            <td>from</td>
+            <td>global</td>
+            <td>if</td>
+            <td>import</td>
+            <td>in</td>
+        </tr>
+        <tr>
+            <td>is</td>
+            <td>lambda</td>
+            <td>nonlocal</td>
+            <td>not</td>
+            <td>or</td>
+        </tr>
+        <tr>
+            <td>pass</td>
+            <td>raise</td>
+            <td>return</td>
+            <td>try</td>
+            <td>while</td>
+        </tr>
+        <tr>
+            <td>with</td>
+            <td>yield</td>
+            <td>True</td>
+            <td>False</td>
+            <td>None</td>
     </table>
 </div>

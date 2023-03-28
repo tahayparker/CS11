@@ -16,7 +16,7 @@ Discussions are available for anyone to ask questions and post doubts. Please be
 
 Do remember that the person on the other end is also a human, and to treat each other with respect and care.
 
-### License
+### License ---
 
 CS11 is licensed under the GNU Affero General Public License v3.0. Please read the LICENSE file in the root of the repo for more information.
 

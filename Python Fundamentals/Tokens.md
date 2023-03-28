@@ -24,14 +24,13 @@ You may remember these as "KILPO"
 
 List of keywords in Python:
 <div align="center">
-	<table >
+	<table style="border-style:none">
 		<tr>
 			<td>and</td>
 			<td>as</td>
 			<td>assert</td>
 			<td>async</td>
 			<td>await</td>
-			<td>
 		</tr>
     </table>
 </div>

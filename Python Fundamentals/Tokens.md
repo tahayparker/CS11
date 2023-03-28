@@ -89,7 +89,7 @@ Rules for identifiers:
 - An identifier can start with an underscore.  <br>
 - Identifiers cannot be the keywords used in Python.  <br>
 
-Examples of Valid Identifiers:
+Examples of **Valid** Identifiers:
 - `myvar`
 - `my_var`
 - `myVar`
@@ -97,7 +97,7 @@ Examples of Valid Identifiers:
 - `myvar1`
 - `myvar_1`
 
-Examples of Invalid Identifiers:
+Examples of **Invalid** Identifiers:
 - `1myvar` (starts with a digit)
 - `my-var` (hyphen)
 - `my var` (space)

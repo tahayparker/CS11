@@ -31,8 +31,6 @@ List of keywords in Python:
 			<td>assert</td>
 			<td>async</td>
 			<td>await</td>
-		</tr>
-        <tr>
             <td>break</td>
             <td>class</td>
             <td>continue</td>
@@ -45,8 +43,6 @@ List of keywords in Python:
             <td>except</td>
             <td>finally</td>
             <td>for</td>
-        </tr>
-        <tr>
             <td>from</td>
             <td>global</td>
             <td>if</td>
@@ -59,8 +55,6 @@ List of keywords in Python:
             <td>nonlocal</td>
             <td>not</td>
             <td>or</td>
-        </tr>
-        <tr>
             <td>pass</td>
             <td>raise</td>
             <td>return</td>

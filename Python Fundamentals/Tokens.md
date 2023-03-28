@@ -279,9 +279,9 @@ Examples:
 - `y = 10` (assigns the value 10 to the variable y)
 - `z = '10'` (assigns the value '10' [as a string] to the variable z)
 
-- `x is y` (returns `True` because both variables are the same object)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output: `True`
-- `x is z` (returns `False` because both variables are not the same object)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output: `False`
+- `x is y` (returns `True` because both variables are the same object)          Output: `True`
+- `x is z` (returns `False` because both variables are not the same object)     Output: `False`
 
 
-- `x is not y` (returns `False` because both variables are the same object)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output: `False`
-- `x is not z` (returns `True` because both variables are not the same object)&nbsp;&nbsp;Output: `True`
+- `x is not y` (returns `False` because both variables are the same object)     Output: `False`
+- `x is not z` (returns `True` because both variables are not the same object)&nbsp;|&nbsp;Output: `True`

@@ -75,3 +75,32 @@ List of keywords in Python:
             <td>None</td>
     </table>
 </div>
+
+
+
+### Identifiers
+- An identifier is a ***fundamental*** unit in a programming language.  <br>
+- Examples of identifiers are variable names, function names, class names, etc.  <br>
+
+Rules for identifiers:
+- An identifier can be a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) or an underscore (_).  <br>
+- Identifiers are case-sensitive, i.e. num1 and NUM1 are different identifiers.  <br>
+- An identifier cannot start with a digit.  <br>
+- An identifier can start with an underscore.  <br>
+- Identifiers cannot be the keywords used in Python.  <br>
+
+Examples of Valid Identifiers:
+- `myvar`
+- `my_var`
+- `myVar`
+- `_myvar`
+- `myvar1`
+- `myvar_1`
+
+Examples of Invalid Identifiers:
+- `1myvar` (starts with a digit)
+- `my-var` (hyphen)
+- `my var` (space)
+- `myvar!` (exclamation mark)
+- `for` (keyword)
+- `myvar@` (special character)

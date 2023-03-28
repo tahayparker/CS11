@@ -5,7 +5,7 @@
 
 This GitHub repo was made to share all the knowledge that I have gained from studying CS with one of the best teachers in the school, Ms. Shenooja Pareed, for 2 years.
 
-The notes in this repo are what Shenooja Ma'am taught the batch of 2022-23, and have been improved upon for better understanding.
+The notes in this repo contain what Shenooja Ma'am taught the batch of 2022-23, and have been improved upon for better understanding.
 
 ### Errors and Requests for notes
 ----

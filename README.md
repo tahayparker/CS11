@@ -10,6 +10,7 @@ The notes in this repo are what Shenooja Ma'am taught the batch of 2022-23, and 
 ----
 
 You may create an Issue by going to the Issues tab on the top in case you find errors or if you would like to request for notes on a certain topic not covered in the repo.
+[Create an issue here](https://github.com/tahayaseenp/CS11/issues/new/choose)
 
 ### Discussions
 ----
@@ -17,6 +18,7 @@ You may create an Issue by going to the Issues tab on the top in case you find e
 Discussions are available for anyone to ask questions and post doubts. Please be mindful of the language used there, as it will not be moderated / supervised.
 
 Do remember that the person on the other end is also a human, and to treat each other with respect and care.
+[Start a discussion here!](https://github.com/tahayaseenp/CS11/discussions/new/choose)
 
 ### License
 ----
